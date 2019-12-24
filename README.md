@@ -8,5 +8,6 @@ MoviePrime
 ### ERD
 ![ERD](./img/ERD.png)
 
-### Demo Video
+### Demo Video 
+(클릭 시 Youtube로 이동)
 [![Demo Video](./img/index.png)](https://youtu.be/d6vUGeLbq0w?t=3)
