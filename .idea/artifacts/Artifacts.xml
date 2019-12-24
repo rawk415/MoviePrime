@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Artifacts">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Artifacts</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MoviePrime" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="activation" />
+          <element id="library" level="project" name="annotations-api" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
