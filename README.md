@@ -10,7 +10,7 @@ MoviePrime
 - 회원가입, 로그인, 이메일 인증 구현
 
 ### 소프트웨어 정보
-`eclipse 2018-12` `tomcat 9.0.30` `jdk 1.8` `intelliJ IDEA Ultimate`
+`tomcat 9.0.30` `jdk 1.8` `MySQL`
 
 ### ERD
 ![ERD](./img/ERD.png)
