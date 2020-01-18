@@ -10,7 +10,7 @@ MoviePrime
 - 회원가입, 로그인, 이메일 인증 구현
 
 ### 소프트웨어 정보
-`tomcat 9.0.30` `jdk 1.8` `MySQL`
+`tomcat 9.0.30` `jdk 1.8` `MySQL Workbench 6.3.7`
 
 ### ERD
 ![ERD](./img/ERD.png)
